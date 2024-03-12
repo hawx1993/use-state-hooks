@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hawx1993/use-better-state.git"
+    "url": "git@github.com:hawx1993/use-better-state.git"
   },
   "keywords": [
     "hooks",
