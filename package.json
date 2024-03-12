@@ -8,6 +8,10 @@
     "release": "npm run build && npm publish",
     "test": "jest"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hawx1993/use-better-state.git"
+  },
   "keywords": [
     "hooks",
     "react hooks",
